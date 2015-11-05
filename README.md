@@ -1,6 +1,6 @@
-# README #
+# A shmup game sample made with unity #
 
-This project is a technical test made with unity in 48 hours. where the task was to create a shmup.
+This project is a shmup game made with unity in 48 hours.
 
 ### Change Log ###
 
